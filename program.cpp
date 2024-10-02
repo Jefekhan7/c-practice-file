@@ -2,5 +2,8 @@
 using namespace std;
 int main() {
     cout<<"this is a good one :"<<endl;
-    cout<<"this is not goog:"<<end;
+    cout<<"this is not good:"<<endl;
+    int data;
+    cin>>data;
+    cout<<dat;
 }
