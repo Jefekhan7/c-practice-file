@@ -5,5 +5,5 @@ int main() {
     cout<<"this is not good:"<<endl;
     int data;
     cin>>data;
-    cout<<dat;
+    cout<<data;
 }
